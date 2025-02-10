@@ -9,7 +9,7 @@ public class PathAndParams {
     @Test
     void testQueryAndPathParameters(){
         //url
-        //https://reqres.in/api/users?delay=3
+        //https://reqres.in/api/users?user=2
 
 
         given()
